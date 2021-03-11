@@ -2,7 +2,7 @@
 
 ## Equipo Sistematicos
 
-![Portada]()
+![Portada](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/imagenes/Picture1.png)
 
 
 ### Unidad I. Sensores
