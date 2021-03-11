@@ -7,7 +7,7 @@
 
 ### Unidad I. Sensores
 
-> :page_with_curl: [.](ht)
+> :page_with_curl: [C0.1 Integrar equipos de trabajo](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/C0.1_TituloActividad_NombreAlumno.md)
 > 
 > :page_with_curl: [A.1.2 Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, utilizando un simulador, y un LDR (Light dependent Resistor)](ht)
 > 
