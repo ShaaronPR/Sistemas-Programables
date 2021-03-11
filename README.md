@@ -7,6 +7,8 @@
 
 ### Unidad I. Sensores
 
+> :page_with_curl: [.](ht)
+> 
 > :page_with_curl: [A.1.2 Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, utilizando un simulador, y un LDR (Light dependent Resistor)](ht)
 > 
 > :page_with_curl: [.](ht)
