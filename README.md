@@ -15,13 +15,14 @@
 >
 > :page_with_curl: [A.1.4 Realizar un sensor medidor de temperatura a través de un circuito electrónico, utilizando un simulador, y un Transistor TMP36.](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A1.4_NombreApellido_Sistematicos.md)
 > 
-> :page_with_curl: [.](ht)
-> 
-> :page_with_curl: [.](ht)
-> 
-
 
 ### Unidad II. Actuadores
+
+> :page_with_curl: [A2.1 Investigación sobre actuadores eléctricos](ht)
+> 
+> :page_with_curl: [.](ht)
+> 
+
 
 ### Unidad III. Microcontroladores
 
