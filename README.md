@@ -20,6 +20,10 @@
 
 > :page_with_curl: [A2.1 Investigación sobre actuadores eléctricos](ht)
 > 
+> :page_with_curl: [A2.2 Circuito temporizador 555 y motor eléctrico](ht)
+> 
+> :page_with_curl: [.](ht)
+> 
 > :page_with_curl: [.](ht)
 > 
 
