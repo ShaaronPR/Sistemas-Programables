@@ -18,9 +18,9 @@
 
 ### Unidad II. Actuadores
 
-> :page_with_curl: [A2.1 Investigación sobre actuadores eléctricos](ht)
+> :page_with_curl: [A2.1 Investigación sobre actuadores eléctricos](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A2.1_NombreApellido_Sistematicos.md)
 > 
-> :page_with_curl: [A2.2 Circuito temporizador 555 y motor eléctrico](ht)
+> :page_with_curl: [A2.2 Circuito temporizador 555 y motor eléctrico](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A2.2_NombreApellido_Sistematicos.md)
 > 
 > :page_with_curl: [.](ht)
 > 
