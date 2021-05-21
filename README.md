@@ -24,7 +24,7 @@
 > 
 
 ### Unidad III. Microcontroladores
-> :page_with_curl: [A.3.1 Circuito sensor de deteccion de objetos](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.1_Circuito_sensor_de_deteccion_de_objetos-NombreApellido.md)
+> :page_with_curl: [A3.1 Circuito sensor de deteccion de objetos](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.1_Circuito_sensor_de_deteccion_de_objetos-NombreApellido.md)
 > 
 > :page_with_curl: [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.2_Circuito_y_programacion_de_un_sensor_de_tactor_con_NodeMCU_ESP32-NombreApellido.md)
 
