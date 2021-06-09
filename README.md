@@ -28,7 +28,7 @@
 > 
 > :page_with_curl: [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.2_Circuito_y_programacion_de_un_sensor_de_tactor_con_NodeMCU_ESP32-NombreApellido.md)
 
-> :page_with_curl: [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.3_Circuito_de_medicion_temperatura_a_traves_de_un_NodeMCU_ESP32-NombreApellido.md.md)
+> :page_with_curl: [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.3_Circuito_de_medicion_temperatura_a_traves_de_un_NodeMCU_ESP32-NombreApellido.md)
 > 
 > :page_with_curl: [.](ht)
 
