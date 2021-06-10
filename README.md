@@ -30,10 +30,20 @@
 
 > :page_with_curl: [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.3_Circuito_de_medicion_temperatura_a_traves_de_un_NodeMCU_ESP32-NombreApellido.md)
 > 
-> :page_with_curl: [.](ht)
 
 ### Unidad IV. Programación de microcontroladores
 
+> :page_with_curl: [A4.1 Circuito de control para activar y desactivar un motor DC, utilizando NodeMCU ESP32 por medio de Bluetooth](ht)
+> 
+> :page_with_curl: [A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi](ht)
+> 
+
 ### Unidad V. Puertos y buses de comunicación para microcontroladores.
 
+> :page_with_curl: [A5.1 Actividad Final Identificación del color de un objeto](ht)
+>  
+
 ### Unidad VI. Interfaces
+
+> 
+> 
