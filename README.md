@@ -40,7 +40,7 @@
 
 ### Unidad V. Puertos y buses de comunicación para microcontroladores.
 
-> :page_with_curl: [A5.1 Actividad Final Identificación del color de un objeto](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A5.1_NombreApellido_Sistematicos.md)
+> :page_with_curl: [A5.2 Actividad Final Identificación del color de un objeto](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A5.1_NombreApellido_Sistematicos.md)
 >  
 
 ### Unidad VI. Interfaces
